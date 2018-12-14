@@ -43,6 +43,10 @@ Partial Class frmIntroduction
         Me.cmdPlus = New System.Windows.Forms.Button()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.txtAncVeh = New System.Windows.Forms.TextBox()
+        Me.lblConnexion = New System.Windows.Forms.Label()
+        Me.cmdConnexion = New System.Windows.Forms.Button()
+        Me.cmdClient = New System.Windows.Forms.Button()
+        Me.cmdVend = New System.Windows.Forms.Button()
         Me.gpbAge.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -240,12 +244,55 @@ Partial Class frmIntroduction
         Me.txtAncVeh.Size = New System.Drawing.Size(100, 20)
         Me.txtAncVeh.TabIndex = 17
         '
+        'lblConnexion
+        '
+        Me.lblConnexion.AutoSize = True
+        Me.lblConnexion.Location = New System.Drawing.Point(640, 320)
+        Me.lblConnexion.Name = "lblConnexion"
+        Me.lblConnexion.Size = New System.Drawing.Size(29, 13)
+        Me.lblConnexion.TabIndex = 28
+        Me.lblConnexion.Text = "Etat "
+        '
+        'cmdConnexion
+        '
+        Me.cmdConnexion.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.cmdConnexion.Location = New System.Drawing.Point(620, 336)
+        Me.cmdConnexion.Name = "cmdConnexion"
+        Me.cmdConnexion.Size = New System.Drawing.Size(75, 23)
+        Me.cmdConnexion.TabIndex = 27
+        Me.cmdConnexion.Text = "&Connexion"
+        Me.cmdConnexion.UseVisualStyleBackColor = False
+        '
+        'cmdClient
+        '
+        Me.cmdClient.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.cmdClient.Location = New System.Drawing.Point(561, 125)
+        Me.cmdClient.Name = "cmdClient"
+        Me.cmdClient.Size = New System.Drawing.Size(75, 23)
+        Me.cmdClient.TabIndex = 30
+        Me.cmdClient.Text = "Client"
+        Me.cmdClient.UseVisualStyleBackColor = False
+        '
+        'cmdVend
+        '
+        Me.cmdVend.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.cmdVend.Location = New System.Drawing.Point(521, 394)
+        Me.cmdVend.Name = "cmdVend"
+        Me.cmdVend.Size = New System.Drawing.Size(75, 23)
+        Me.cmdVend.TabIndex = 31
+        Me.cmdVend.Text = "vendeur"
+        Me.cmdVend.UseVisualStyleBackColor = False
+        '
         'frmIntroduction
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.cmdVend)
+        Me.Controls.Add(Me.cmdClient)
+        Me.Controls.Add(Me.lblConnexion)
+        Me.Controls.Add(Me.cmdConnexion)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.txtAncVeh)
         Me.Controls.Add(Me.cmdPlus)
@@ -293,4 +340,8 @@ Partial Class frmIntroduction
     Friend WithEvents cmdPlus As Button
     Friend WithEvents Label5 As Label
     Friend WithEvents txtAncVeh As TextBox
+    Friend WithEvents lblConnexion As Label
+    Friend WithEvents cmdConnexion As Button
+    Friend WithEvents cmdClient As Button
+    Friend WithEvents cmdVend As Button
 End Class

@@ -1,11 +1,22 @@
 ﻿Public Class Credit
 
+
+    'SET : sert à affecter une valeur à une propriété
+
+    'Get : sert à récupérer la valeur d'une propriété
+
     'Parties privés
+
+
     Private taux As Double = 0
     Private dure As Double = 0
     Private capitale As Double = 0
     '------------------------
     Private mensualite As Double = 0
+    '------------------------
+    Private palier As Integer = 0
+
+    Private venteVendeur As String  'Lien avec la table Vendeur
 
     Sub New()
 
@@ -33,12 +44,26 @@
         End Get
     End Property
 
-    Sub setEnregistreCredit(ByVal monCapitale As Double, ByVal monTaux As Double, ByVal maDuree As Double)
+    Sub setEnregistreCredit(ByVal monCapitale As Double, ByVal monTaux As Double, ByVal maDuree As Double, ByVal maMensualite As Double)
         capitale = monCapitale
         taux = monTaux
-        capitale = monCapitale
-        'mensualite = maMensualite
+        dure = maDuree
+        mensualite = maMensualite
     End Sub
+
+    Sub setEnregistreVente(ByVal maVenteVendeur As String, ByVal monCapitale As Double, ByVal monTaux As Double, ByVal maDuree As Double, ByVal maMensualite As Double)
+        venteVendeur = maVenteVendeur
+        capitale = monCapitale
+        dure = maDuree
+        taux = monTaux
+        mensualite = maMensualite
+    End Sub
+
+    Function getMaVente() As String
+
+        Return (venteVendeur + " " + capitale.ToString + " " + taux.ToString + " " + dure.ToString + " " + mensualite.ToString)
+
+    End Function
 
     Function getMonCapitale() As Double
 
@@ -57,6 +82,30 @@
         Return (dure)
 
     End Function
+
+    Function getMaMensualite() As Double
+
+        Return (mensualite)
+
+    End Function
+    '-------------------------------------
+
+    Public Sub setCapitale(ByVal monCapitale As Double) ''''''
+        capitale = monCapitale
+    End Sub
+
+    Public Sub setTaux(ByVal monTaux As Double) ''''''
+        taux = monTaux
+    End Sub
+
+    Public Sub setDuree(ByVal maDuree As Double) ''''''
+        dure = maDuree
+    End Sub
+
+    Public Sub setMensualite(ByVal maMensualite As Double) ''''''
+        mensualite = maMensualite
+    End Sub
+
 
 
 End Class

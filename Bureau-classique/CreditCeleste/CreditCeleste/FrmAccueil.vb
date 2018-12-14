@@ -29,20 +29,37 @@
         'uneConcession.setConcession() ' si déclaration avec new
         uneConcession = New Concession("Garage du parc", "4 rue des rossignole")
 
-        'Creation un vendeur
-        Dim unVendeur As New Vendeur("M.", "Velez", "Younes")
-        Dim un2Vendeur As New Vendeur("M.", "Kreyder", "Armand")
-        Dim un3Vendeur As New Vendeur("M.", "Sommer", "Malex")
 
-        'rajouter mes 3 vendeurs
+        Persistance.depuisBddVendeur()
 
-        uneConcession.lesVendeurs.Add(unVendeur)
-        uneConcession.lesVendeurs.Add(un2Vendeur)
-        uneConcession.lesVendeurs.Add(un3Vendeur)
+        ''Creation un vendeur
+        'Dim unVendeur As New Vendeur("M.", "Treuschel", "Julien")
+        'Dim un2Vendeur As New Vendeur("M.", "Kreyder", "Armand")
+        'Dim un3Vendeur As New Vendeur("M.", "Caufield", "Maxime")
+
+        ''rajouter mes 3 vendeurs
+
+        'uneConcession.lesVendeurs.Add(unVendeur)
+        'uneConcession.lesVendeurs.Add(un2Vendeur)
+        'uneConcession.lesVendeurs.Add(un3Vendeur)
 
 
 
 
 
+    End Sub
+
+    Private Sub cmdVendeur_Click(sender As Object, e As EventArgs) Handles cmdVendeur.Click
+
+        If fenVend Is Nothing Then
+            fenVend = New frmVendeur 'desing pattern : singleton
+        End If
+
+        fenVend.Show()  ' affichage de l'objet
+
+        'fenIntro.ShowDialog() 'forcer la saisie / fentre modale
+        fenVend.BringToFront()   'pour le mettre en 1er plan 
+
+        Me.Hide() ' pour masquer la fentre active
     End Sub
 End Class

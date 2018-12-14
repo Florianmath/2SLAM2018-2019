@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CreditCeleste.ClientVoit" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientVoit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.ClientSpecifique" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAiAIAAAAkAAAEAAAAgCgAQAAIAA=</HashCode>
+      <FileName>ClientVoit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.Commission" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAABABAAAgAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Commission.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.Concession" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIABAAg=</HashCode>
+      <FileName>Concession.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.Credit" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAUAAAAAAAAAABAACAACAFIAAAABAAAQoAAgAAA=</HashCode>
+      <FileName>Credit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.FrmAccueil" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgCBCAAEAAACAAAICABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FrmAccueil.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.frmCoordonnéesClient" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BwAIJQCAECBqABEAgASAAAAijQAIAgBAQAAAAgAIABA=</HashCode>
+      <FileName>frmCoordonnéesClient.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.frmCredit" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEoIhAACFiBiABEAiASBAAACCAAIAIAgQAEAAAAIAAQ=</HashCode>
+      <FileName>frmCredit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.frmIntroduction" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgIBACDFSAiAAAACBSAAAACCAIIEgAARAEAAgAKAAE=</HashCode>
+      <FileName>frmIntroduction.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.frmNiveau" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmNiveau.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.frmSaisieBien" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAABAAClCBAAAEECASQAAACCAAIIAAAAAEIAQQKAAA=</HashCode>
+      <FileName>frmSaisieBien.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.frmVendeur" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABiEAgEKQAABAAgECgABACAAAQAIAgQAAAAAACAAA=</HashCode>
+      <FileName>frmVendeur.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.Niveau" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgA=</HashCode>
+      <FileName>Niveau.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.Vendeur" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAACAAAAgAAAAEAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vendeur.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.Voiture" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SCAGBMAAAAoAAAggAAAAgBAAAABBAAAECAAAAAgTAAA=</HashCode>
+      <FileName>Voiture.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.My.MyApplication" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditCeleste.My.MySettings" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABEAAAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="CreditCeleste.gestion" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gestion.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CreditCeleste.moduleVariable" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEQAAACEGAAAAAEAAAgAAAEAAAAICAAAAAgAAAAAAA=</HashCode>
+      <FileName>moduleVariable.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CreditCeleste.My.MySettingsProperty" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CreditCeleste.My.Resources.Resources" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAABEAAAAQAAAAAQAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
