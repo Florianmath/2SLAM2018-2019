@@ -41,6 +41,9 @@ Partial Class frmSaisieBien
         Me.rdbOcc3a5 = New System.Windows.Forms.RadioButton()
         Me.rdbOcc3 = New System.Windows.Forms.RadioButton()
         Me.rdbNeuf = New System.Windows.Forms.RadioButton()
+        Me.lblConnexion = New System.Windows.Forms.Label()
+        Me.cmdConnexion = New System.Windows.Forms.Button()
+        Me.cmdClient = New System.Windows.Forms.Button()
         Me.gpbAge.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -151,7 +154,7 @@ Partial Class frmSaisieBien
         Me.cmdCredit.Name = "cmdCredit"
         Me.cmdCredit.Size = New System.Drawing.Size(75, 23)
         Me.cmdCredit.TabIndex = 12
-        Me.cmdCredit.Text = "&Crédit"
+        Me.cmdCredit.Text = "Crédit"
         Me.cmdCredit.UseVisualStyleBackColor = False
         '
         'GroupBox1
@@ -218,12 +221,44 @@ Partial Class frmSaisieBien
         Me.rdbNeuf.Text = "Neuf"
         Me.rdbNeuf.UseVisualStyleBackColor = True
         '
+        'lblConnexion
+        '
+        Me.lblConnexion.AutoSize = True
+        Me.lblConnexion.Location = New System.Drawing.Point(679, 376)
+        Me.lblConnexion.Name = "lblConnexion"
+        Me.lblConnexion.Size = New System.Drawing.Size(29, 13)
+        Me.lblConnexion.TabIndex = 28
+        Me.lblConnexion.Text = "Etat "
+        '
+        'cmdConnexion
+        '
+        Me.cmdConnexion.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.cmdConnexion.Location = New System.Drawing.Point(659, 392)
+        Me.cmdConnexion.Name = "cmdConnexion"
+        Me.cmdConnexion.Size = New System.Drawing.Size(75, 23)
+        Me.cmdConnexion.TabIndex = 27
+        Me.cmdConnexion.Text = "&Connexion"
+        Me.cmdConnexion.UseVisualStyleBackColor = False
+        '
+        'cmdClient
+        '
+        Me.cmdClient.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.cmdClient.Location = New System.Drawing.Point(477, 392)
+        Me.cmdClient.Name = "cmdClient"
+        Me.cmdClient.Size = New System.Drawing.Size(75, 23)
+        Me.cmdClient.TabIndex = 29
+        Me.cmdClient.Text = "Client"
+        Me.cmdClient.UseVisualStyleBackColor = False
+        '
         'frmSaisieBien
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.cmdClient)
+        Me.Controls.Add(Me.lblConnexion)
+        Me.Controls.Add(Me.cmdConnexion)
         Me.Controls.Add(Me.gpbAge)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.cmdCredit)
@@ -267,4 +302,7 @@ Partial Class frmSaisieBien
     Friend WithEvents rdbOcc3a5 As RadioButton
     Friend WithEvents rdbOcc3 As RadioButton
     Friend WithEvents rdbNeuf As RadioButton
+    Friend WithEvents lblConnexion As Label
+    Friend WithEvents cmdConnexion As Button
+    Friend WithEvents cmdClient As Button
 End Class

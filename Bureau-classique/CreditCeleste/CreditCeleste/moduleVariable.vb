@@ -19,4 +19,16 @@
     Public unClientVoit As New ClientVoit
     Public unCredit As New Credit
 
+
+    Public fenVend As frmVendeur ' pas de new car le clique le crée
+
+    Public unVendeur As New Vendeur
+    ''
+    Public uneCommission As New Commission
+
+    ''
+    Public unClientSpecifique As New ClientSpecifique
+    Public unClientGenerique As New ClientGenerique
+    Public fenCoordClient As frmCoordonnéesClient
+
 End Module
