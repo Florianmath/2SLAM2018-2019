@@ -35,12 +35,30 @@
         txtPuissance.Text = uneVoiture.getMaPuissance
 
 
-
-
+        'todo yv
 
 
 
         'de l'objet vers l'écran
+
+
+        Dim i As Integer = 0
+        Dim radio As RadioButton
+        radio = gpbAge.Controls(i)
+
+
+
+        Do While radio.Text <> uneVoiture.getAge And i < gpbAge.Controls.Count - 1
+            i += 1
+            radio.Checked = false
+            radio = gpbAge.Controls(i)
+
+        Loop
+
+        radio.Checked = True
+
+
+
     End Sub
 
     Private Sub cmdEnregistre_Click(sender As Object, e As EventArgs) Handles cmdEnregistre.Click
@@ -48,6 +66,44 @@
 
         'enregistre les données 
         uneVoiture.setbien(txt1erDate.Text, txtAnneeModele.Text, txtNumImmat.Text, txtNumSerie.Text, txtPuissance.Text)
+
+        Dim Age As String
+        Dim i As Integer = 0
+        Dim radio As RadioButton
+        radio = gpbAge.Controls(i)
+
+        Do While radio.Checked = False And i < gpbAge.Controls.Count - 1
+            i += 1
+            radio = gpbAge.Controls(i)
+        Loop
+        Age = radio.Text
+
+        'Dim situationPatrimoniale As String
+        'Dim i As Integer = 0
+        'Dim radio As RadioButton
+        'radio = gbpSituionPatrimoniale.Controls(i)
+
+        'Do While radio.Checked = False And i < gpbsituationPatrimoniale.controls.count - 1
+        '    i += 1
+        '    radio = gpbSituationPatrimoniale.Controls(i)
+        'Loop
+
+        'stock le contenu texte du radio button dans sitation Patrimoniale
+        'situationPatrimoniale = radio.Text
+
+
+        'Dim utilisateurMail = ""
+        'For i = 0 To gpbUtilisateurMail.Controls.Count - 1
+        '    radio = gpbUtilisateurMail.Controls(i)
+
+
+        '    If radio.Checked Then
+        '        utilisateurMail = radio.Text
+        '    End If
+
+        'Next
+
+
 
 
         MsgBox("ok")
@@ -74,6 +130,27 @@
         'Me.Hide() ' pour masquer la fentre active
         Me.Close()
 
+
+    End Sub
+
+    Private Sub cmdClient_Click(sender As Object, e As EventArgs) Handles cmdClient.Click
+
+        'affichage du client
+
+        If fenCoordClient Is Nothing Then
+            fenCoordClient = New frmCoordonnéesClient  'desing pattern : singleton
+        ElseIf fenCoordClient.IsDisposed Then 'si disposé, il le crée a nouveau
+            fenCoordClient = New frmCoordonnéesClient
+        End If
+
+        fenCoordClient.Show()  ' affichage de l'objet
+
+        'fenIntro.ShowDialog() 'forcer la saisie / fentre modale
+        fenCoordClient.BringToFront()   'pour le mettre en 1er plan 
+
+
+        'Me.Hide() ' pour masquer la fentre active
+        Me.Close()
 
     End Sub
 End Class

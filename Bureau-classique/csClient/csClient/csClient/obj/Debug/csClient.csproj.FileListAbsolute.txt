@@ -4,3 +4,9 @@ D:\Younes_Velez\SLAM5\Bureau-classique\csClient\csClient\csClient\obj\Debug\csCl
 D:\Younes_Velez\SLAM5\Bureau-classique\csClient\csClient\csClient\obj\Debug\csClient.csproj.CoreCompileInputs.cache
 D:\Younes_Velez\SLAM5\Bureau-classique\csClient\csClient\csClient\obj\Debug\csClient.dll
 D:\Younes_Velez\SLAM5\Bureau-classique\csClient\csClient\csClient\obj\Debug\csClient.pdb
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\csClient\csClient\csClient\bin\Debug\csClient.dll
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\csClient\csClient\csClient\bin\Debug\csClient.pdb
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\csClient\csClient\csClient\obj\Debug\csClient.csprojResolveAssemblyReference.cache
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\csClient\csClient\csClient\obj\Debug\csClient.csproj.CoreCompileInputs.cache
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\csClient\csClient\csClient\obj\Debug\csClient.dll
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\csClient\csClient\csClient\obj\Debug\csClient.pdb

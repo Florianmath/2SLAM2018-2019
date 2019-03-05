@@ -83,7 +83,7 @@
         Return (monAncienVehicule)
 
     End Function
-    Public Sub setNomAncienVehicuel(ByVal nomAncienVehicule As String) '''''''
+    Public Sub setNomAncienVehicule(ByVal nomAncienVehicule As String) '''''''
         monAncienVehicule = nomAncienVehicule
     End Sub
 
@@ -93,7 +93,7 @@
     End Sub
 
     Function getAge() As String
-        getAge = monAgeVehicule
+        Return monAgeVehicule
     End Function
 
 

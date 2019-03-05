@@ -25,6 +25,8 @@ Partial Class FrmAccueil
         Me.cmdIntroduction = New System.Windows.Forms.Button()
         Me.cmdEtude = New System.Windows.Forms.Button()
         Me.cmdRelance = New System.Windows.Forms.Button()
+        Me.cmdVendeur = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'cmdIntroduction
@@ -58,22 +60,48 @@ Partial Class FrmAccueil
         Me.cmdRelance.Text = "&Relance"
         Me.cmdRelance.UseVisualStyleBackColor = False
         '
+        'cmdVendeur
+        '
+        Me.cmdVendeur.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.cmdVendeur.Location = New System.Drawing.Point(324, 307)
+        Me.cmdVendeur.Name = "cmdVendeur"
+        Me.cmdVendeur.Size = New System.Drawing.Size(121, 51)
+        Me.cmdVendeur.TabIndex = 3
+        Me.cmdVendeur.Text = "&Vendeur"
+        Me.cmdVendeur.UseVisualStyleBackColor = False
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Impact", 48.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.ForeColor = System.Drawing.SystemColors.Control
+        Me.Label1.Location = New System.Drawing.Point(199, 38)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(407, 80)
+        Me.Label1.TabIndex = 4
+        Me.Label1.Text = "Crédit Celeste"
+        '
         'FrmAccueil
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.cmdVendeur)
         Me.Controls.Add(Me.cmdRelance)
         Me.Controls.Add(Me.cmdEtude)
         Me.Controls.Add(Me.cmdIntroduction)
         Me.Name = "FrmAccueil"
         Me.Text = "Accueil"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
     Friend WithEvents cmdIntroduction As Button
     Friend WithEvents cmdEtude As Button
     Friend WithEvents cmdRelance As Button
+    Friend WithEvents cmdVendeur As Button
+    Friend WithEvents Label1 As Label
 End Class

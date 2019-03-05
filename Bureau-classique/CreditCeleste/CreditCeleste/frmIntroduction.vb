@@ -17,7 +17,8 @@
 
         'gestion de l'age du véhicule
 
-
+        'todo yv
+        'gpbAge.Text = uneVoiture.getAge()
 
         'changer le client, de l'objet vers l'écran
 
@@ -25,30 +26,9 @@
         txtPrenom.Text = unClientVoit.getPrenomClient()
         cboCidt.Text = unClientVoit.getCidtClient()
 
+        cboVendeur.Text = unVendeur.getVendeur()
 
-    End Sub
 
-    Private Sub gpbAge_Enter(sender As Object, e As EventArgs) Handles gpbAge.Enter
-
-    End Sub
-
-    Private Sub rdbNeuf_CheckedChanged(sender As Object, e As EventArgs) Handles rdbNeuf.CheckedChanged
-
-    End Sub
-
-    Private Sub rdbOcc3_CheckedChanged(sender As Object, e As EventArgs) Handles rdbOcc3.CheckedChanged
-
-    End Sub
-
-    Private Sub rdb3a5_CheckedChanged(sender As Object, e As EventArgs) Handles rdbOcc3a5.CheckedChanged
-
-    End Sub
-
-    Private Sub rdbOcc5_CheckedChanged(sender As Object, e As EventArgs) Handles rdbOcc5.CheckedChanged
-
-    End Sub
-
-    Private Sub txtNouvVeh_TextChanged(sender As Object, e As EventArgs) Handles txtNouvVeh.TextChanged
 
     End Sub
 
@@ -76,6 +56,9 @@
         '
         uneVoiture.setEnregistreVehicule(txtNouvVeh.Text, txtAncVeh.Text)
 
+        uneVoiture.setAge(gpbAge.Text)
+
+        unVendeur.setEnregistreVendeur(cboVendeur.Text, "", "")
 
 
         '->les données du véhicule
@@ -163,6 +146,11 @@
     End Sub
 
     Private Sub cboVendeur_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cboVendeur.SelectedIndexChanged
+        'Remplir la combo box avec le nom des vendeurs
+
+        'uneConcession.lesVendeurs.Add(unVendeur)
+
+
 
     End Sub
 
@@ -186,7 +174,41 @@
 
     End Sub
 
-    Private Sub txtAncVeh_TextChanged(sender As Object, e As EventArgs) Handles txtAncVeh.TextChanged
+
+    Private Sub cmdClient_Click(sender As Object, e As EventArgs) Handles cmdClient.Click
+        'affichage du client
+
+        If fenCoordClient Is Nothing Then
+            fenCoordClient = New frmCoordonnéesClient  'desing pattern : singleton
+        ElseIf fenCoordClient.IsDisposed Then 'si disposé, il le crée a nouveau
+            fenCoordClient = New frmCoordonnéesClient
+        End If
+
+        fenCoordClient.Show()  ' affichage de l'objet
+
+        'fenIntro.ShowDialog() 'forcer la saisie / fentre modale
+        fenCoordClient.BringToFront()   'pour le mettre en 1er plan 
+
+
+        'Me.Hide() ' pour masquer la fentre active
+        Me.Close()
+
+    End Sub
+
+    Private Sub cmdVend_Click(sender As Object, e As EventArgs) Handles cmdVend.Click
+        If fenVend Is Nothing Then
+            fenVend = New frmVendeur 'desing pattern : singleton
+        End If
+
+        fenVend.Show()  ' affichage de l'objet
+
+        'fenIntro.ShowDialog() 'forcer la saisie / fentre modale
+        fenVend.BringToFront()   'pour le mettre en 1er plan 
+
+        Me.Hide() ' pour masquer la fentre active
+    End Sub
+
+    Private Sub cmdConnexion_Click(sender As Object, e As EventArgs) Handles cmdConnexion.Click
 
     End Sub
 End Class
