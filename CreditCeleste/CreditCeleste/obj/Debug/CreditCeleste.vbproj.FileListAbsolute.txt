@@ -1,0 +1,115 @@
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojResolveAssemblyReference.cache
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.FrmAccueil.resources
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+D:\Younes_Velez\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojAssemblyReference.cache
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.FrmAccueil.resources
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+F:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojResolveAssemblyReference.cache
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.FrmAccueil.resources
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+G:\René Cassin 2eme années\SLAM5\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmVendeur.resources
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojResolveAssemblyReference.cache
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.FrmAccueil.resources
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCoordonnéesClient.resources
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmVendeur.resources
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+G:\René Cassin 2eme années\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojResolveAssemblyReference.cache
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.FrmAccueil.resources
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCoordonnéesClient.resources
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmVendeur.resources
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+G:\René Cassin 2eme années\Controle\SLAM5 - Controle\Bureau-classique\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe.config
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.exe
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.pdb
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\bin\Debug\CreditCeleste.xml
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\bin\Debug\csClient.dll
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\bin\Debug\csClient.pdb
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbprojAssemblyReference.cache
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.FrmAccueil.resources
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCoordonnéesClient.resources
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmCredit.resources
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmIntroduction.resources
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmSaisieBien.resources
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.frmVendeur.resources
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.Resources.resources
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.GenerateResource.cache
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CoreCompileInputs.cache
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.vbproj.CopyComplete
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.exe
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.xml
+D:\E6\Bureau-classique_V1\CreditCeleste\CreditCeleste\obj\Debug\CreditCeleste.pdb
